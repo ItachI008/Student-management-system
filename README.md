@@ -1,8 +1,8 @@
 <!--# Student-management-system
 Student Management System using Flask and MySQL -->
-_To_ _run_ _the_ _code_
+##_To_ _run_ _the_ _code_
 
-Rquirements:-
+#Rquirements:-
     -Python
     -XAMPP
     -Text editor of your choice
