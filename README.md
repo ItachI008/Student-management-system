@@ -3,9 +3,9 @@ Student Management System using Flask and MySQL -->
 # To run the code
 
 ## Rquirements:-
-    -Python
-    -XAMPP
-    -Text editor of your choice
+-Python
+-XAMPP
+-Text editor of your choice
 
 
 ## To run:-
