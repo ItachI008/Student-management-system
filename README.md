@@ -1,14 +1,14 @@
 <!--# Student-management-system
 Student Management System using Flask and MySQL -->
-##_To_ _run_ _the_ _code_
+# To run the code
 
-#Rquirements:-
+## Rquirements:-
     -Python
     -XAMPP
     -Text editor of your choice
 
 
-To run:-
+## To run:-
     -Extract all the files 
     -Open XAMPP and Start Apache and MySQL and click on admin on MySQL
     -on the server which just opened on a browser click on "New"
